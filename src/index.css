@@ -23,7 +23,8 @@ button:hover {
   scale: 1.5;
 }
 img {
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
   aspect-ratio: auto;
 }
